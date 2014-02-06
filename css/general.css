@@ -58,6 +58,11 @@ h1 {
     font-family:sans-serif
 }
 
+figure {
+    margin: 0 auto 1rem;
+    width: 100%; 
+}
+
 h2 {
     margin: 0rem;
     color: pink;
@@ -71,12 +76,6 @@ p {
     margin: 0 0 1rem;
     line-height: 1.5rem;
 }
-
-figure {
-    margin: 0 auto 1rem;
-    width: 100%; 
-}
-
 
 footer {
     background-color: pink;
